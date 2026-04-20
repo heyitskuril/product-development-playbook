@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
-![Last Updated](https://img.shields.io/badge/last%20updated-2025-blue)
+![Last Updated](https://img.shields.io/badge/last%20updated-2026-blue)
 
 [📖 Read the Full Guide](./GUIDE.md) · [🐛 Report an Issue](https://github.com/heyitskuril/product-development-playbook/issues) · [🤝 Contribute](./CONTRIBUTING.md)
 
