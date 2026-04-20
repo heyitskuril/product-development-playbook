@@ -130,7 +130,10 @@ You are free to use, copy, modify, distribute, and adapt this guide — for pers
 
 Created and maintained by **Kuril dev**
 
+- LinkedIn: [@heyitskuril](https://linkedin.com/in/heyitskuril)
+- Instagram: [@heyitskuril](https://instagram.com/heyitskuril)
 - GitHub: [@heyitskuril](https://github.com/heyitskuril)
+- Email: kuril.dev@gmail.com
 
 ---
 
