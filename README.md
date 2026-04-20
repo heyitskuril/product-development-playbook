@@ -126,7 +126,9 @@ You are free to use, copy, modify, distribute, and adapt this guide — for pers
 
 ---
 
-## About the Author
+## About the author
+
+<div align="center">
 
 <img src="https://avatars.githubusercontent.com/heyitskuril" width="80" style="border-radius: 50%;" />
 
@@ -138,6 +140,8 @@ A dreamer… who still working on it to make it real.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/heyitskuril)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/heyitskuril)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuril.dev@gmail.com)
+
+</div>
 
 ---
 
