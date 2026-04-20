@@ -130,9 +130,9 @@ You are free to use, copy, modify, distribute, and adapt this guide — for pers
 
 <img src="https://avatars.githubusercontent.com/heyitskuril" width="80" style="border-radius: 50%;" />
 
-**Kuril** — Full-Stack Web Developer based in Jakarta, Indonesia.
+**Kuril**
 
-PERN Stack Specialist focused on clean architecture, scalable web applications, and production-ready engineering practices. This repository is part of an ongoing effort to document and share what actually works in production.
+A dreamer… who still working on it to make it real.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/heyitskuril)
