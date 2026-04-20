@@ -126,14 +126,18 @@ You are free to use, copy, modify, distribute, and adapt this guide — for pers
 
 ---
 
-## Author
+## About the Author
 
-Created and maintained by **Kuril dev**
+<img src="https://avatars.githubusercontent.com/heyitskuril" width="80" style="border-radius: 50%;" />
 
-- LinkedIn: [@heyitskuril](https://linkedin.com/in/heyitskuril)
-- Instagram: [@heyitskuril](https://instagram.com/heyitskuril)
-- GitHub: [@heyitskuril](https://github.com/heyitskuril)
-- Email: kuril.dev@gmail.com
+**Kuril** — Full-Stack Web Developer based in Jakarta, Indonesia.
+
+PERN Stack Specialist focused on clean architecture, scalable web applications, and production-ready engineering practices. This repository is part of an ongoing effort to document and share what actually works in production.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/heyitskuril)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/heyitskuril)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuril.dev@gmail.com)
 
 ---
 
