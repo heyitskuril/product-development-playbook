@@ -4,7 +4,7 @@
 > **Scope:** Any tech product (web app, mobile app, SaaS, platform, API, or internal tool)
 > **Standard:** Industry-grade, production-ready
 > **Methodology:** Lean + Agile + Shape Up hybrid
-> **Last updated:** 2025
+> **Last updated:** April 2026
 
 ---
 
