@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Product Development Playbook
+# Product Development Playbook
 
 **A complete, industry-standard guide for building tech products — from idea to launch.**
 
