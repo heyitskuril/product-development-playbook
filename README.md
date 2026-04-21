@@ -368,20 +368,16 @@ You are free to use, copy, modify, distribute, and adapt this guide — for pers
 
 <div align="center">
 
-<br/>
+<img src="https://avatars.githubusercontent.com/heyitskuril" width="80" style="border-radius: 50%;" />
 
 **Kuril**
 
-A dreamer… still working on making it real.
-
-<br/>
+A dreamer… who still working on it to make it real.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/heyitskuril)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/heyitskuril)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuril.dev@gmail.com)
-
-<br/>
 
 </div>
 
